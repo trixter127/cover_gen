@@ -1,0 +1,87 @@
+--init--
+ Updated on 2024-05-05 18:38:01
+ Covers Updated on 2024-05-06 18:24:42
+:CheckListPune
+CheckList - Pune
+CheckListforPune
+CheckList for Pune
+AzureAIFundamentals
+AI 900
+ArtificialIntelligenceBasics
+AI
+DatainMachineLearning
+Data in ML
+MachineLearningAlgorithms
+ML Algorithms
+MachineLearningBasics
+ML
+AwsCli
+AWS CLI
+Ebs
+EBS
+Ec2
+EC2
+Elb
+ELB
+ElasticCache
+Elastic Cache
+Iam
+IAM
+NonRds
+Non-RDS
+ParameterStore
+Parameter Store
+R53
+R53
+Rds
+RDS
+S3
+S3
+SsmParameterStoreVsSecretsManager
+SSM Parameter Store Vs Secrets Manager
+SecretsManager
+Secrets Manager
+Algorithms
+Algorithms
+DataStructuresAndAlgorithmsPrep
+Data Structures and Algorithms - Prep
+DataStructures
+Data Structures
+Recursion
+Recursion
+Bardscpi
+BardsCPI
+BuildingWheelWithPoetry
+Building Wheel with Poetry
+CoreferenceResolution
+Coreference Resolution
+DataEngineeringQuestions
+Data Engineering Questions
+DataEngineeringRedditLinks
+Data Engineering Reddit links
+DataWrangling
+Data Wrangling
+GoogleAppSPasswordGenerationLink
+Google App's Password Generation link
+JobPreparation
+Job Preparation
+LineDetectionWithOpencv
+Line Detection with OpenCV
+OrganizeCDrive
+Organize C Drive
+Pneuinsights
+PneuInsights
+PythonInterviewQuestions
+Python Interview Questions
+Spacy
+Spacy
+StanfordNlp
+Stanford NLP
+TeftSharkTank
+TEFT Shark Tank
+Gaurav
+gaurav
+OracleApiKeyGenerationLink
+Oracle API Key Generation link
+OracleFreeTierArmInstance
+Oracle Free Tier Arm Instance
